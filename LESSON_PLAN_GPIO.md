@@ -2,6 +2,14 @@
 
 In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI, the icon should be named **ScratchGPIO 7**
 
+## Achievements
+* Blinking LED
+* Bird Launch
+* Exploding Monsters
+* Exploding Birds Hardware
+* Bird Vs Monster Software
+* Bird Vs Monster Hardware
+
 ## A couple of warnings
 * The LEDs have a short leg and long leg. The instructions below will tell you in which orientation to insert them. If you insert them wrong, they won't light up.
 * Two types of resistors are provided in the kit. We only use the lower resistance ones, 330 Ohm. The label on the bag says 330 Ohm. If you use the other type, your LEDs will light up very faintly.
