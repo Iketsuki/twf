@@ -30,8 +30,7 @@ shorter lead to lower row 23
 one to the "-" side of the 3.3V power rail.
  * You can explain to the students that the resistor slows down the current, to prevent the LED from burning out.
 * Use the **ScratchGPIO 7** icon on the deskstop to start up scratch.
-* Now create the scratch project (solution is in 
-grit_pilot/scratch_gpio_projects/blinking_led.sb)
+* Now create the scratch project (solution is in twf/solutions/scratch_gpio/blinking_led.sb)
  * This is a normal Scratch project, except some variables will be 
 intepreted as input/output. In this case, we want to broadcast the events 
 pin11high and pin11low alternatively. This will set the voltage to 3.3V for 
@@ -46,7 +45,7 @@ everything was connected properly.
 
 ## First project: Exploding Birds
 ### Software
-The game is similar to angry birds, but with a simpler launch mecanism (angle-based). The bird  is first oriented with the left/right arrow keys, then launched with the space bar, and can explode mid-flight after pressing the push button. Depending on how many monsters were hit, that many LEDs will be lit up. The solution is present in grit_pilot/scratch_gpio_projects/exploding_birds.sb. 
+The game is similar to angry birds, but with a simpler launch mecanism (angle-based). The bird  is first oriented with the left/right arrow keys, then launched with the space bar, and can explode mid-flight after pressing the push button. Depending on how many monsters were hit, that many LEDs will be lit up. The solution is present in twf/solutions/scratch_gpio/exploding_birds.sb. 
 
 ![exploding_birds.jpg](https://raw.githubusercontent.com/gritcoding/twf/master/images/exploding_birds.jpg)
 
@@ -135,7 +134,7 @@ In this project, we are building an angry bird game where the bird is launched a
 
 ### Software
 
-The solution is in grit_pilot/scratch_gpio_projects/bird_vs_monster.sb
+The solution is in twf/solutions/scratch_gpio/bird_vs_monster.sb
 
 ![bird_vs_monster_scratch.jpg](https://raw.githubusercontent.com/gritcoding/twf/master/images/bird_vs_monster_scratch.jpg)
 
