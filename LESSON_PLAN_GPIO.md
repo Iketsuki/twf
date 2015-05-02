@@ -1,6 +1,10 @@
 # Scratch + GPIO lesson
 
-In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI.
+In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI, the icon should be named **ScratchGPIO 7**
+
+## A couple of warnings
+* The LEDs have a short leg and long leg. The instructions below will tell you in which orientation to insert them. If you insert them wrong, they won't light up.
+* Two types of resistors are provided in the kit. We only use the lower resistance ones, 330 Ohm. The label on the bag says 330 Ohm. If you use the other type, your LEDs will light up very faintly.
 
 ## Setup instructions
 * Have the kids setup the Raspberry PI by connecting the usual connectors (microSD card, HDMI, mouse, keyboard, power).
@@ -25,7 +29,7 @@ shorter lead to lower row 23
 * Take the resistor, connect one of its lead to lower row 23, and the other 
 one to the "-" side of the 3.3V power rail.
  * You can explain to the students that the resistor slows down the current, to prevent the LED from burning out.
-* Use the **ScratchGPIO 6** icon on the deskstop to start up scratch.
+* Use the **ScratchGPIO 7** icon on the deskstop to start up scratch.
 * Now create the scratch project (solution is in 
 grit_pilot/scratch_gpio_projects/blinking_led.sb)
  * This is a normal Scratch project, except some variables will be 
@@ -40,7 +44,7 @@ everything was connected properly.
 ![blinking_led_setup.jpg](https://raw.githubusercontent.com/gritcoding/twf/master/images/blinking_led_setup.jpg)
 
 
-## Exploding Birds (Morning)
+## First project: Exploding Birds
 ### Software
 The game is similar to angry birds, but with a simpler launch mecanism (angle-based). The bird  is first oriented with the left/right arrow keys, then launched with the space bar, and can explode mid-flight after pressing the push button. Depending on how many monsters were hit, that many LEDs will be lit up. The solution is present in grit_pilot/scratch_gpio_projects/exploding_birds.sb. 
 
@@ -117,7 +121,7 @@ If the kids are done early, they may be customizing their game already, adding a
 * Implement some logic in the monsters so that they try to avoid the bird.
 * Add animation when a monster dies, maybe jump up, do a backflip and then switch to dead costume.
 
-## Bird Vs Monster (Afternoon)
+## Second project: Bird Vs Monster
 In this project, we are building an angry bird game where the bird is launched and must try to hit the monster. The monster is played by another player and can be moved up and down using two push buttons.
 
 ### Hardware setup
