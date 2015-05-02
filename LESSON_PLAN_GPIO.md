@@ -7,9 +7,9 @@ In this lesson, we continue using Scratch, using a special GPIO (General Purpose
 * Two types of resistors are provided in the kit. We only use the lower resistance ones, 330 Ohm. The label on the bag says 330 Ohm. If you use the other type, your LEDs will light up very faintly.
 
 ## Setup instructions
-* Have the kids setup the Raspberry PI by connecting the usual connectors (microSD card, HDMI, mouse, keyboard, power).
-* You will also connect the header cable to the breakout board, and insert the breakout board into the breadboard.
-* Start up the RPI, wait for it to boot.
+* The Raspberry PI should be up and running, no need to shut it down.
+* Insert the breakout board into the breadboard, being careful to line up the pins like on the picture below.
+* Connect the header cable between the Raspberry PI and the breakout board with the correct orientation (look at the red part of the cable ribbon).
 
 ![Empty Breadboard](https://raw.githubusercontent.com/gritcoding/twf/master/images/breadboard_empty.jpg)
 
