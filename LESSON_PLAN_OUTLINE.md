@@ -25,5 +25,8 @@
 ###Presentations (30 mins)
 
 ###Wrap-up and Survey (15 mins)
+* Remind students to explire Scratch at http://scratch.mit.edu
+
+
 
 
