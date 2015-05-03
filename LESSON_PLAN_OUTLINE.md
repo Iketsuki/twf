@@ -15,10 +15,12 @@
 	* Must complete 'Measures Of Success' before moving on to next section. 
 
 ###Part 1 - Angry Birds (2.5 hrs)
+* [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 
 ###Lunch Break (45 mins)
 
 ###Part 2 - GPIO (2 hrs)
+* [Scratch + GPIO](LESSON_PLAN_GPIO.md)
 
 ###Presentations (30 mins)
 
