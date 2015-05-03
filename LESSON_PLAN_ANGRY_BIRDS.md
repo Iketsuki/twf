@@ -6,6 +6,7 @@
 ###Instructor Notes
 * Encourage students to follow their curiosity and depart from lesson plan (keeping within time limits so everyone moves ahead together).
 * Answer questions by asking students to try it and see (not just show & tell).
+* There will be a short class-wide presentation before the start of each objective (TBD). 
 * The Chapter is for instructors only; share the objectives with the students but not the answers in the chapter.
 
 ![Sample](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_sample.jpg)
