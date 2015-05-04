@@ -14,3 +14,4 @@ Todo:
 * Achievement Stickers
 * Setup local wifi network
 * Setup mifi for restricted internet access
+* Resources for ordering RaspberryPi in HK
