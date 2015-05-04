@@ -12,7 +12,8 @@
 * Explain how we'll run the class.
 	* Video:  Pair Programming (from code.org)
 	* Two students will work together to figure out the programming, with guidance from volunteers.
-	* Must complete 'Measures Of Success' before moving on to next section. 
+	* Must complete 'Measures Of Success' (objectives) before moving on to next section. 
+	* English is the language of instruction; can switch to Cantonese, but not all instructors speak Cantonese so might put some at a disadvantage.
 
 ###Part 1 - Angry Birds (2.5 hrs)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
@@ -23,9 +24,10 @@
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
 
 ###Presentations (30 mins)
+* Students will show & tell what they learned. Can speak in Cantonese if English is a hurdle.
 
 ###Wrap-up and Survey (15 mins)
-* Remind students to explire Scratch at http://scratch.mit.edu
+* Remind students to explore Scratch at http://scratch.mit.edu
 
 
 
