@@ -17,9 +17,18 @@
 * Walkthrough the interface and the basic code blocks.
 
 ###Hello World (20 mins)
+
+##### Demo
+
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_helloworld.jpg)
+
+##### Objectives
+* Make a sprite move, rotate
+* Bonus: change costumes, add sound
+
+##### Questions
 * How many degrees in a circle?
 * Can you point your sprite Up, Down, Left, Right?
-* Make your sprite say ‘Hello World’
 
 ![Faiz](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_faiz.jpg)
 
