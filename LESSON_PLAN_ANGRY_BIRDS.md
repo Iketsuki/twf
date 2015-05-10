@@ -18,13 +18,12 @@
 
 ###Hello World (20 mins)
 
-##### Demo
-
-![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_helloworld.jpg)
-
 ##### Objectives
 * Make a sprite move, rotate
 * Bonus: change costumes, add sound
+
+##### Demo
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_helloworld.jpg)
 
 ##### Questions
 * How many degrees in a circle?
@@ -33,8 +32,20 @@
 ![Faiz](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_faiz.jpg)
 
 ###Creating a character, Creating a level (30 mins)
+
+##### Objectives
+* Create a stage with background, ground, and Slingshot
+* Add a sprite
+* Bonus: Add costumes to sprite, scenery, objects
+
+##### Demo
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_level.jpg)
+* solutions/angrybirds/01_level.sb
+
+##### Questions
 * How large is my stage, in pixels? Where is x=0, y=0?
 * How can I tell the x, y where my mouse is pointing?
+* Did you name your sprites?
 * Zoom out in editor to see the entire canvas.
 * Don’t forget to save!
 
