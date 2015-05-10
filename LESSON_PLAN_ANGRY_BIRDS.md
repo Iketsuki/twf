@@ -25,7 +25,7 @@
 ##### Demo
 ![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_helloworld.jpg)
 
-##### Questions
+##### Ideas
 * How many degrees in a circle?
 * Can you point your sprite Up, Down, Left, Right?
 
@@ -42,7 +42,7 @@
 ![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_level.jpg)
 * solutions/angrybirds/01_level.sb
 
-##### Questions
+##### Ideas
 * How large is my stage, in pixels? Where is x=0, y=0?
 * How can I tell the x, y where my mouse is pointing?
 * Did you name your sprites?
@@ -50,8 +50,24 @@
 * Don’t forget to save!
 
 ###Moving with the keyboard, Launch, Flight, Physics (60 mins)
+
+##### Demo
+* Start by changing x and y by fixed amount on launch, then let students work on variables.
+* ...
+
+##### Objectives
+* Move and launch bird from slingshot.
+* Add variables.
+* Stop when bird hits ground, edges of screen (or other objects).
+* Bonus: animation, sound
+
+##### Ideas
+* Where is the sprite center (costume edit)?
+* What is the difference between 'move by' and 'change x by'?
+* Right-click on scripts to duplicate.
 * How can I make my sprite move faster? Slower?
-* The flight code is complex; first move by fixed x,y and then build the formula. Don’t get stuck on the formula but make sure to understand how assignment of ‘x speed’ and ‘y speed’ works.
+* The flight code is complex; first move by fixed x,y and then build the formula by introducing variables. Don’t get stuck on the formula but make sure to understand how assignment of ‘x speed’ and ‘y speed’ works.
+
 
 ###Scoring, Extensions (30 mins)
 * Local (sprite) vs Global (all sprites) variables.
