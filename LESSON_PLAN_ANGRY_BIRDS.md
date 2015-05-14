@@ -6,7 +6,7 @@
 ###Instructor Notes
 * Encourage students to follow their curiosity and depart from lesson plan (keeping within time limits so everyone moves ahead together).
 * Answer questions by asking students to try it and see (not just show & tell).
-* There will be a short class-wide presentation before the start of each objective to explain what is expected. 
+* There will be a short class-wide demo before the start of each section to explain what is expected. 
 * The Chapter is for instructors only; share the objectives with the students but not the answers in the chapter.
 
 ![Sample](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_sample.jpg)
@@ -16,7 +16,7 @@
 ###Introduction (10 mins)
 * Walkthrough the interface and the basic code blocks.
 
-###Hello World (20 mins)
+###Hello World (10 mins)
 
 ##### Objectives
 * Make a sprite move, rotate
@@ -25,13 +25,16 @@
 ##### Demo
 ![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_helloworld.jpg)
 
+* Show motion variables: x, y, direction.
+* Right-click for help.
+
 ##### Ideas
 * How many degrees in a circle?
 * Can you point your sprite Up, Down, Left, Right?
 
 ![Faiz](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_faiz.jpg)
 
-###Creating a character, Creating a level (30 mins)
+###Creating a character, Creating a level (20 mins)
 
 ##### Objectives
 * Create a stage with background, ground, and Slingshot
@@ -49,16 +52,23 @@
 * Zoom out in editor to see the entire canvas.
 * Don’t forget to save!
 
-###Moving with the keyboard, Launch, Flight, Physics (60 mins)
+###Moving with the keyboard, Launch, Flight, Physics (40 mins)
 
 ##### Demo
-* Start by changing x and y by fixed amount on launch, then let students work on variables.
-* ...
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_launch_demo01.jpg)
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_launch_demo02.jpg)
+* solutions/angrybirds/02_launch_flight.sb
+
+* Move bird to slingshot.
+* Press spacebar to launch bird (broadcast and receive).
+* Change x and y by fixed amounts. Show how changing the values of x and y affects flight path.
+* Introduce (sprite) variables; let students figure out how much to change the variable.
+* Gravity.
 
 ##### Objectives
 * Move and launch bird from slingshot.
 * Add variables.
-* Stop when bird hits ground, edges of screen (or other objects).
+* Stop when bird hits ground, edges of screen (or other objects). Or bounce around.
 * Bonus: animation, sound
 
 ##### Ideas
@@ -69,7 +79,7 @@
 * The flight code is complex; first move by fixed x,y and then build the formula by introducing variables. Don’t get stuck on the formula but make sure to understand how assignment of ‘x speed’ and ‘y speed’ works.
 
 
-###Scoring, Extensions (30 mins)
+###Scoring, Extensions (40 mins)
 * Local (sprite) vs Global (all sprites) variables.
 * Add sounds (launch, hit enemy).
 * Add animation (hop on slingshot, launch, hit enemy).
