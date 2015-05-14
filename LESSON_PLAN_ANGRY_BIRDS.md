@@ -69,7 +69,7 @@
 * Move and launch bird from slingshot.
 * Add variables.
 * Stop when bird hits ground, edges of screen (or other objects). Or bounce around.
-* Bonus: animation, sound
+* Bonus: animation, sound, gravity, bounce on ground before coming to stop.
 
 ##### Ideas
 * Where is the sprite center (costume edit)?
@@ -80,7 +80,18 @@
 
 
 ###Scoring, Extensions (40 mins)
-* Local (sprite) vs Global (all sprites) variables.
-* Add sounds (launch, hit enemy).
-* Add animation (hop on slingshot, launch, hit enemy).
 
+##### Demo
+![Hello World](https://raw.githubusercontent.com/gritcoding/twf/master/images/angrybirds_scoring.jpg)
+* solutions/angrybirds/03_scoring.sb
+
+##### Objectives
+* Add monster(s).
+* Add scoring.
+* Reset bird and monsters on start.
+* Bonus: Different kinds of monsters and scores, multiple birds, animations (e,g, hop on slingshot, flight), sounds, power-ups (e.g. press a key to speedup).
+
+##### Ideas
+* Score is a global (all sprites) variable.
+* Duplicate your monster (and birds) when you're done with the first one.
+* How can you make each bird independant (birds can hop on slingshot in sequence, or use key presses or mouseclicks)? And each monster react to each bird?
