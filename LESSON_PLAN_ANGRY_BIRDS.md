@@ -64,6 +64,7 @@
 * Change x and y by fixed amounts. Show how changing the values of x and y affects flight path.
 * Introduce (sprite) variables; let students figure out how much to change the variable.
 * Gravity.
+* [Explanation of Flight and Speed code for Angry Birds](ANGRY_BIRDS_SPEED_CODE.md)
 
 ##### Objectives
 * Move and launch bird from slingshot.
