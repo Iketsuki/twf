@@ -18,12 +18,12 @@
 ###Part 1 - Angry Birds (2 hrs  11:00am-1:00pm)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 
-###Lunch Break (45 mins)
+###Lunch Break (45 mins - 1 hr)
 
 ###Part 2 - GPIO (2 hrs  2:00-4:00pm)
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
 
-###Presentations (30 mins)
+###Presentations (30 mins  4:00pm-4:30pm)
 * Students will show & tell what they learned. Can speak in Cantonese if English is a hurdle.
 
 ###Wrap-up and Survey (15 mins)
