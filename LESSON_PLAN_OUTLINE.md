@@ -1,6 +1,6 @@
 #Lesson Plan
 
-###Introduction (30 mins)
+###Introduction (30 mins  10:30-11:00am)
 
 * Introduce volunteers, and why we were inspired to run this programme.
 * Question: What is a computer programmer?
@@ -15,12 +15,12 @@
 	* Must complete 'Measures Of Success' (objectives) before moving on to next section. 
 	* English is the language of instruction; can switch to Cantonese, but not all instructors speak Cantonese so might put some at a disadvantage.
 
-###Part 1 - Angry Birds (2.5 hrs)
+###Part 1 - Angry Birds (2 hrs  11:00am-1:00pm)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 
 ###Lunch Break (45 mins)
 
-###Part 2 - GPIO (2 hrs)
+###Part 2 - GPIO (2 hrs  2:00-4:00pm)
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
 
 ###Presentations (30 mins)
