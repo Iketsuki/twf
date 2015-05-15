@@ -6,7 +6,7 @@ In this lesson, we continue using Scratch, using a special GPIO (General Purpose
 * Blinking LED
 * Bird Launch
 * Exploding Costume and Code
-* Exploding Monsters
+* Moving Monsters
 * Exploding Birds Hardware
 * Bird Vs Monster Software
 * Bird Vs Monster Hardware
