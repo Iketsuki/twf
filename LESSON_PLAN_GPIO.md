@@ -2,9 +2,10 @@
 
 In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI, the icon should be named **ScratchGPIO 7**
 
-## Achievements
+## Objectives
 * Blinking LED
 * Bird Launch
+* Exploding Costume and Code
 * Exploding Monsters
 * Exploding Birds Hardware
 * Bird Vs Monster Software
