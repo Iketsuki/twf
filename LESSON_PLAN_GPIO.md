@@ -156,6 +156,7 @@ The solution is in twf/solutions/scratch_gpio/bird_vs_monster.sb
 * Make sure the monster cannot move beyond the edges of the screen.
 * Include an announcement after the end of the game to indicate whether the bird won or the monster won.
 * Make the bird chase the monster automatically using some logic after launch.
+* Have the pair of students compete against each other to program powerups and features to help them win, i.e. one is the bird, the other is the monster.
 
 ## Reference materials
 The ScratchGPIO website says: ***As it comes, six pins are set to be used as outputs (Pins 11,12,13,15,16 and 18) and all the rest as simple inputs (22,7,3,5,24,26,19,21,23,8 and 10)***.
