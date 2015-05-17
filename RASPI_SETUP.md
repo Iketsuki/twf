@@ -36,6 +36,8 @@
  * `ping google.com` (test connectivity, CTRL-C to stop)
  * `sudo apt-get update` (update the software repository)
  * `sudo apt-get upgrade` (apply updates)
+ * Install GPIO for Scratch: http://simplesi.net/scratchgpio/scratch-raspberrypi-gpio/
+   * The latest version of Scratch might be unstable (UI crash) -- if so, edit sh script to use scratch.old
  * `sudo rpi-update` (optional update firmware)
  * `sudo apt-get dist-upgrade` (optional update raspbian distribution)
  * `sudo apt-get install chromium` (optional install web browser)
@@ -49,6 +51,7 @@
 * Time is updated (NTP) when you connect to Internet. The device has no battery so doesn’t keep time when turned off.
 * For the VILROS kit, don’t put on the top cover; it will be hard to access the camera interface.
 * USB storage is mounted to /media
+* To change the resolution (720p works well for the demo unit): https://www.raspberrypi.org/documentation/configuration/config-txt.md
 * Use omxplayer from the command line to play videos:
  * `omxplayer -b -o local video.mp4` (full screen, black bgrnd, audio jack)
  * SPACE pause; q quit
