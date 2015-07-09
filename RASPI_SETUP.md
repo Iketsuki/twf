@@ -37,7 +37,7 @@
  * `sudo apt-get update` (update the software repository)
  * `sudo apt-get upgrade` (apply updates)
  * Install GPIO for Scratch: http://simplesi.net/scratchgpio/scratch-raspberrypi-gpio/
-   * The latest version of Scratch might be unstable (UI crash) -- if so, edit sh script to use scratch.old
+   * The latest version of Scratch might be unstable (UI crash) -- if so, edit /opt/scratchgpio7/scratchgpio7.sh to use /usr/bin/scratch.old
  * `sudo rpi-update` (optional update firmware)
  * `sudo apt-get dist-upgrade` (optional update raspbian distribution)
  * `sudo apt-get install chromium` (optional install web browser)
