@@ -1,8 +1,11 @@
 #Lesson Plan
 
-###Introduction (30 mins  10:30-11:00am)
+* Introductions: volunteers, TWF, programme.
 
-* Introduce volunteers, and why we were inspired to run this programme.
+###Ice Breaker (30 mins 10:30-11:00am)
+* Candybot (TBC)
+
+###Introduction (30 mins  11:00-11:30am)
 * Question: What is a computer programmer?
 	*  Video: Code Stars (1 min) - http://youtu.be/dU1xS07N-FA
 * Unbox RaspberryPi.
@@ -15,13 +18,20 @@
 	* Must complete 'Measures Of Success' (objectives) before moving on to next section. 
 	* English is the language of instruction; can switch to Cantonese, but not all instructors speak Cantonese so might put some at a disadvantage.
 
-###Part 1 - Angry Birds (2 hrs  11:00am-1:00pm)
+###Part 1 - Angry Birds (2 hrs  11:30am-1:00pm)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 
-###Lunch Break (45 mins - 1 hr)
+###Lunch Break (1 hr)
+* Optional lunch activity: CS Unplugged activities on searching and sorting - http://csunplugged.org/books/
 
 ###Part 2 - GPIO (2 hrs  2:00-4:00pm)
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
+
+###Stretch Assignments
+* If finished early with Part 2:
+	* Sonic Pi - https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/
+	* Minecraft - https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/
+	* For Minecraft might need Python intro first: https://www.raspberrypi.org/learning/python-intro/
 
 ###Presentations (30 mins  4:00pm-4:30pm)
 * Students will show & tell what they learned. Can speak in Cantonese if English is a hurdle.
