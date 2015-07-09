@@ -18,10 +18,11 @@
 	* Must complete 'Measures Of Success' (objectives) before moving on to next section. 
 	* English is the language of instruction; can switch to Cantonese, but not all instructors speak Cantonese so might put some at a disadvantage.
 
-###Part 1 - Angry Birds (2 hrs  11:30am-1:00pm)
+###Part 1 - Angry Birds (2 hrs  11:30am-1:15pm)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
+* Can break for lunch earlier and continue Part 1 after lunch.
 
-###Lunch Break (1 hr)
+###Lunch Break (45 min - 1 hr)
 * Optional lunch activity: CS Unplugged activities on searching and sorting - http://csunplugged.org/books/
 
 ###Part 2 - GPIO (2 hrs  2:00-4:00pm)
