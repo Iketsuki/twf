@@ -3,7 +3,8 @@
 * Introductions: volunteers, TWF, programme.
 
 ###Ice Breaker (30 mins 10:30-11:00am)
-* Candybot (TBC)
+* CandyBot: A modification of LightBot in the real world.
+* Instructions and example in /graphics directory.
 
 ###Introduction (30 mins  11:00-11:30am)
 * Question: What is a computer programmer?
