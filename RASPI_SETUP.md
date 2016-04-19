@@ -42,6 +42,8 @@
  * `sudo apt-get dist-upgrade` (optional update raspbian distribution)
  * `sudo apt-get install chromium` (optional install web browser)
  * `sudo apt-get install geany` (optional install editor)
+ * `sudo apt-get install pi-bluetooth (optional bluetooth support)
+ * `sudo apt-get install blueman (optional bluetooth UI)
  * `sudo apt-get clean` (house-keeping)
 
 ###Tips
