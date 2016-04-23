@@ -22,6 +22,7 @@
 * Advanced
  * ssh enable
  * audio: auto / jack
+* Overscan: disable
 * Finish, Reboot
 
 ###Wifi Config
