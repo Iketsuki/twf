@@ -1,12 +1,13 @@
 #Lesson Plan
 
-* Introductions: volunteers, TWF, programme.
+###Introductions (15 mins 10:00-10:15am)
+* Volunteers, TWF, programme.
 
-###Ice Breaker (30 mins 10:30-11:00am)
+###Ice Breaker (30 mins 10:15-10:45am)
 * CandyBot: A modification of LightBot in the real world.
 * Instructions and example in /graphics directory.
 
-###Introduction (30 mins  11:00-11:30am)
+###Introduction (30 mins  10:45-11:15am)
 * Question: What is a computer programmer?
 	*  Video: Code Stars (1 min) - http://youtu.be/dU1xS07N-FA
 * Unbox RaspberryPi.
@@ -19,14 +20,16 @@
 	* Must complete 'Measures Of Success' (objectives) before moving on to next section. 
 	* English is the language of instruction; can switch to Cantonese, but not all instructors speak Cantonese so might put some at a disadvantage.
 
-###Part 1 - Angry Birds (2 hrs  11:30am-1:15pm)
+###Break (15 mins 11:15-11:30am)
+
+###Part 1 - Angry Birds (~2 hrs  11:30am-1:15pm)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 * Can break for lunch earlier and continue Part 1 after lunch.
 
-###Lunch Break (45 min - 1 hr)
+###Lunch Break (~45 min)
 * Optional lunch activity: CS Unplugged activities on searching and sorting - http://csunplugged.org/books/
 
-###Part 2 - GPIO (2 hrs  2:00-4:00pm)
+###Part 2 - GPIO (90mins  2:00-3:30pm)
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
 
 ###Stretch Assignments
