@@ -38,10 +38,10 @@
 	* Minecraft - https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/
 	* For Minecraft might need Python intro first: https://www.raspberrypi.org/learning/python-intro/
 
-###Presentations (30 mins  4:00pm-4:30pm)
+###Presentations (20 mins  3:30-3:50pm)
 * Students will show & tell what they learned. Can speak in Cantonese if English is a hurdle.
 
-###Wrap-up and Survey (15 mins)
+###Wrap-up and Survey (10 mins 3:50-4pm )
 * Remind students to explore Scratch at http://scratch.mit.edu
 
 
