@@ -3,6 +3,7 @@
 In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI, the icon should be named **ScratchGPIO 7**
 
 ## Objectives
+* Basic LED
 * Blinking LED
 * Bird Launch
 * Exploding Costume and Code
@@ -28,7 +29,16 @@ Through the rest of the lesson, keep the breadboard oriented in a way that the
 lettering on the breakout board is visible to you (i.e. you should see SDA, GND, 
 etc).
 
-## Blinking Light (Introduction)
+## Basic Light 
+* Take a red LED and a 330 Ohm resistor from the kit, as well as 1 short 
+wire.
+* Connect one short wire from the "+" side of the 3.3V power rail to a 
+free row on the breadboard, say lower row 22 (yellow cable on picture).
+
+![led_setup.jpg](https://raw.githubusercontent.com/gritcoding/twf/master/images/led_setup.jpg)
+
+
+## Blinking Light
 * Take a red LED and a 330 Ohm resistor from the kit, as well as 1 short 
 wire.
 * Connect one short wire from pin 17 (lower row 6 on the breadboard) to a 
