@@ -32,7 +32,9 @@ etc).
 ## Basic Light (Introduction)
 * Take a red LED and a 330 Ohm resistor from the kit, as well as 1 short wire.
 * Connect one short wire from the "+" side of the 3.3V power rail to a free row on the breadboard, say lower row 22 (yellow cable on picture).
+* Take the LED, and connect the longer lead to lower row 22, and the shorter lead to lower row 23
 * Take the resistor, connect one of its lead to lower row 23, and the other one to the "-" side of the 3.3V power rail.
+ * You can explain to the students that the resistor slows down the current, to prevent the LED from burning out.
 
 ![led_setup.jpg](images/led_setup.jpg)
 
@@ -46,7 +48,6 @@ free row on the breadboard, say lower row 22 (yellow cable on picture).
 shorter lead to lower row 23
 * Take the resistor, connect one of its lead to lower row 23, and the other 
 one to the "-" side of the 3.3V power rail.
- * You can explain to the students that the resistor slows down the current, to prevent the LED from burning out.
 * Use the **ScratchGPIO 7** icon on the deskstop to start up scratch.
 * Now create the scratch project (solution is in twf/solutions/scratch_gpio/blinking_led.sb)
  * This is a normal Scratch project, except some variables will be 
