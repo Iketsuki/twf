@@ -1,6 +1,6 @@
 # Scratch + GPIO lesson
 
-In this lesson, we continue using Scratch, using a special GPIO (General Purpose Input/Output) enabled build. It will be installed on the Raspberry PI, the icon should be named **ScratchGPIO 7**
+In this lesson, we continue using Scratch, using GPIO (General Purpose Input/Output).
 
 ## Objectives
 * Basic LED
@@ -48,12 +48,13 @@ free row on the breadboard, say lower row 22 (yellow cable on picture).
 shorter lead to lower row 23
 * Take the resistor, connect one of its lead to lower row 23, and the other 
 one to the "-" side of the 3.3V power rail.
-* Use the **ScratchGPIO 7** icon on the deskstop to start up scratch.
+* You may need to start the *GPIO Server* in Scratch (edit menu)
 * Now create the scratch project (solution is in twf/solutions/scratch_gpio/blinking_led.sb)
  * This is a normal Scratch project, except some variables will be 
 intepreted as input/output. In this case, we want to broadcast the events 
-pin11high and pin11low alternatively. This will set the voltage to 3.3V for 
+gpio17on and gpio17off alternatively. This will set the voltage to 3.3V for 
 high (LED on) and 0V for low (LED off).
+ * We also need to declare that GPIO pin 17 will be used as output, with *broadcast config17out*.
  * You should see the blinking red LED when starting the Scratch project if 
 everything was connected properly.
 
@@ -169,7 +170,7 @@ The solution is in twf/solutions/scratch_gpio/bird_vs_monster.sb
 * Have the pair of students compete against each other to program powerups and features to help them win, i.e. one is the bird, the other is the monster.
 
 ## Reference materials
-The ScratchGPIO website says: ***As it comes, six pins are set to be used as outputs (Pins 11,12,13,15,16 and 18) and all the rest as simple inputs (22,7,3,5,24,26,19,21,23,8 and 10)***.
+https://www.raspberrypi.org/documentation/usage/scratch/gpio/README.md
 
-These numbers refer to the **Pin #** table in the Vilros manual page 158. To get the pin number on the breakout board, look at the **Name** column.
+Pin numbers refer to the **Pin #** table in the Vilros manual page 158. To get the pin number on the breakout board, look at the **Name** column.
 
