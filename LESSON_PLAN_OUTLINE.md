@@ -5,7 +5,9 @@
 
 ###Ice Breaker (30 mins 10:15-10:45am)
 * CandyBot: A modification of LightBot in the real world.
-* Instructions and example in /graphics directory.
+	* Instructions and example in /graphics directory.
+* Sorting: Students sort themselves by name (or number) and then learn to write an algorithm for a computer.
+	* Example: CS Unplugged [Page 72](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 
 ###Introduction (30 mins  10:45-11:15am)
 * Question: What is a computer programmer?
@@ -14,6 +16,13 @@
 	* Remind students not to touch the electrical parts, and to place it down on anti-static bag.
 	* Video: What is a Raspberry Pi? - http://www.raspberrypi.org/
 	* Encourage students to figure out how to connect and power-on the Raspberry Pi (power cable goes last!).
+		* Pi board
+		* SD Card (contains O/S and software)
+		* HDMI (display)
+		* Wifi (USB dongle)
+		* Keyboard
+		* Mouse
+		* Power (micro-USB adapter)
 * Explain how we'll run the class.
 	* Video:  Pair Programming (from code.org)
 	* Two students will work together to figure out the programming, with guidance from volunteers.
