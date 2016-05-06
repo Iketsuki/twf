@@ -37,6 +37,7 @@
 
 ###Lunch Break (~45 min)
 * Optional lunch activity: CS Unplugged activities on searching and sorting - http://csunplugged.org/books/
+* Play/demo Flotilla and GoPiGo
 
 ###Part 2 - GPIO (90mins  2:00-3:30pm)
 * [Scratch + GPIO](LESSON_PLAN_GPIO.md)
