@@ -32,6 +32,7 @@
 ###Break (15 mins 11:15-11:30am)
 
 ###Part 1 - Angry Birds (~2 hrs  11:30am-1:15pm)
+* Introduce and Demo Angry Birds (not everyone has played before)
 * [Angry Birds](LESSON_PLAN_ANGRY_BIRDS.md)
 * Can break for lunch earlier and continue Part 1 after lunch.
 
