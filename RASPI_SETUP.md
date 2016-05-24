@@ -46,6 +46,9 @@
  * `sudo apt-get install pi-bluetooth` (optional bluetooth support)
  * `sudo apt-get install blueman` (optional bluetooth UI)
  * `sudo apt-get clean` (house-keeping)
+ * If the [mouse lags](https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=84999) (issue in Jessie), try the following:
+    * `sudo nano /boot/cmdline.txt`
+    * add `usbhid.mousepoll=0`
 
 ###Tips
 
